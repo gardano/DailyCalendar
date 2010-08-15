@@ -1,0 +1,601 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 44}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 813238611216E54C000B72C4 /* DailyCalendar */;
+		activeTarget = 8D1107260486CEB800E47090 /* DailyCalendar */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* DailyCalendar */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 813238801216E56B000B72C4 /* Code sense */;
+		executables = (
+			813238611216E54C000B72C4 /* DailyCalendar */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					689,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					649,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303591142;
+			PBXWorkspaceStateSaveDate = 303591142;
+		};
+		perUserProjectItems = {
+			813238B91216F0CF000B72C4 = 813238B91216F0CF000B72C4 /* PBXTextBookmark */;
+			81323B8A12176AE4000B72C4 = 81323B8A12176AE4000B72C4 /* PBXTextBookmark */;
+			819C866312186EE8009F382C /* PBXTextBookmark */ = 819C866312186EE8009F382C /* PBXTextBookmark */;
+			81B3891212181A1900FAE22B = 81B3891212181A1900FAE22B /* PBXTextBookmark */;
+			81B38ABF121833B700FAE22B = 81B38ABF121833B700FAE22B /* PBXTextBookmark */;
+			81B38AC0121833B700FAE22B = 81B38AC0121833B700FAE22B /* PBXTextBookmark */;
+			81B38BA7121847F800FAE22B = 81B38BA7121847F800FAE22B /* XDModelBookmark */;
+			81B38BA8121847F800FAE22B = 81B38BA8121847F800FAE22B /* PBXTextBookmark */;
+			81B38BB21218481700FAE22B = 81B38BB21218481700FAE22B /* PBXTextBookmark */;
+			81B38BE712184A5000FAE22B = 81B38BE712184A5000FAE22B /* PBXTextBookmark */;
+			81B38BE812184A5000FAE22B = 81B38BE812184A5000FAE22B /* PBXTextBookmark */;
+			81B38BFC12184C6900FAE22B = 81B38BFC12184C6900FAE22B /* PlistBookmark */;
+			81B38BFD12184C6900FAE22B = 81B38BFD12184C6900FAE22B /* PBXBookmark */;
+			81B38BFE12184C6900FAE22B = 81B38BFE12184C6900FAE22B /* PBXTextBookmark */;
+			81B38BFF12184C6900FAE22B = 81B38BFF12184C6900FAE22B /* PBXTextBookmark */;
+			81B38C0012184C6900FAE22B = 81B38C0012184C6900FAE22B /* PBXTextBookmark */;
+			81B38C0112184C6900FAE22B = 81B38C0112184C6900FAE22B /* PBXTextBookmark */;
+			81B38C0212184C6900FAE22B = 81B38C0212184C6900FAE22B /* PBXTextBookmark */;
+			81B38C0612186D2200FAE22B = 81B38C0612186D2200FAE22B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8132387F1216E56B000B72C4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	770B37EC0679A11B001EADE2 /* DailyCalendar_DataModel.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						46.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {604, 218}}",
+							"{{609, 0}, {317, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {926, 220}}",
+							"{{0, 225}, {926, 447}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {196, 218}}",
+							"{{201, 0}, {401, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						138.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-132, 0}, {911, 432}}";
+			};
+		};
+	};
+	77C8280B06725ACE000B614F /* DailyCalendar_AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{590, 0}";
+			sepNavVisRange = "{0, 944}";
+		};
+	};
+	77C8280C06725ACE000B614F /* DailyCalendar_AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 3042}}";
+			sepNavSelRange = "{887, 0}";
+			sepNavVisRange = "{0, 1599}";
+		};
+	};
+	813238611216E54C000B72C4 /* DailyCalendar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DailyCalendar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8132387F1216E56B000B72C4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	813238801216E56B000B72C4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	813238851216E58A000B72C4 /* CalendarViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{843, 0}";
+			sepNavVisRange = "{0, 858}";
+		};
+	};
+	813238861216E58A000B72C4 /* CalendarViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 3341}}";
+			sepNavSelRange = "{8026, 0}";
+			sepNavVisRange = "{7094, 1406}";
+		};
+	};
+	8132389C1216E655000B72C4 /* NSDate+Extras.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 541}";
+		};
+	};
+	8132389D1216E655000B72C4 /* NSDate+Extras.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 1209}}";
+			sepNavSelRange = "{351, 0}";
+			sepNavVisRange = "{0, 1554}";
+		};
+	};
+	813238B91216F0CF000B72C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8132389D1216E655000B72C4 /* NSDate+Extras.m */;
+		name = "NSDate+Extras.m: 19";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 167;
+	};
+	81323A7C12174B8F000B72C4 /* AppointmentEventDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 653}}";
+			sepNavSelRange = "{407, 110}";
+			sepNavVisRange = "{0, 785}";
+		};
+	};
+	81323A9F12174D4F000B72C4 /* AppointmentView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{595, 23}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	81323AA012174D4F000B72C4 /* AppointmentView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 1690}}";
+			sepNavSelRange = "{1650, 0}";
+			sepNavVisRange = "{1369, 565}";
+		};
+	};
+	81323AD91217514B000B72C4 /* DateStringValueTransformer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 672}}";
+			sepNavSelRange = "{189, 26}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	81323ADA1217514B000B72C4 /* DateStringValueTransformer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{53, 0}";
+			sepNavVisRange = "{0, 648}";
+		};
+	};
+	81323B8A12176AE4000B72C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323A7C12174B8F000B72C4 /* AppointmentEventDelegate.h */;
+		name = "AppointmentEventDelegate.h: 19";
+		rLen = 110;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 0;
+	};
+	81323BD712176DC0000B72C4 /* AppointmentCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 649}}";
+			sepNavSelRange = "{197, 15}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	81323BD812176DC0000B72C4 /* AppointmentCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {742, 364}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{43, 671}";
+		};
+	};
+	819C866312186EE8009F382C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8132389D1216E655000B72C4 /* NSDate+Extras.m */;
+		name = "NSDate+Extras.m: 16";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 1554;
+		vrLoc = 0;
+	};
+	81B3891212181A1900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323A9F12174D4F000B72C4 /* AppointmentView.h */;
+		name = "AppointmentView.h: 23";
+		rLen = 23;
+		rLoc = 593;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	81B38ABF121833B700FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323BD812176DC0000B72C4 /* AppointmentCell.m */;
+		name = "AppointmentCell.m: 10";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	81B38AC0121833B700FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323BD712176DC0000B72C4 /* AppointmentCell.h */;
+		name = "AppointmentCell.h: 12";
+		rLen = 15;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	81B38BA7121847F800FAE22B /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 770B37EC0679A11B001EADE2 /* DailyCalendar_DataModel.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	81B38BA8121847F800FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323AD91217514B000B72C4 /* DateStringValueTransformer.h */;
+		name = "DateStringValueTransformer.h: 12";
+		rLen = 26;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	81B38BB21218481700FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323AA012174D4F000B72C4 /* AppointmentView.m */;
+		name = "AppointmentView.m: 57";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 1430;
+		vrLoc = 1448;
+	};
+	81B38BE712184A5000FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 813238861216E58A000B72C4 /* CalendarViewController.m */;
+		name = "CalendarViewController.m: 227";
+		rLen = 0;
+		rLoc = 8024;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 7094;
+	};
+	81B38BE812184A5000FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 44;
+		vrLoc = 0;
+	};
+	81B38BFC12184C6900FAE22B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DailyCalendar-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/localDevelopment/DailyCalendar/DailyCalendar-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	81B38BFD12184C6900FAE22B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 81B38BF412184BD500FAE22B /* icon.icns */;
+	};
+	81B38BFE12184C6900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81323ADA1217514B000B72C4 /* DateStringValueTransformer.m */;
+		name = "DateStringValueTransformer.m: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 648;
+		vrLoc = 0;
+	};
+	81B38BFF12184C6900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77C8280C06725ACE000B614F /* DailyCalendar_AppDelegate.m */;
+		name = "DailyCalendar_AppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 887;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 0;
+	};
+	81B38C0012184C6900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77C8280B06725ACE000B614F /* DailyCalendar_AppDelegate.h */;
+		name = "DailyCalendar_AppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 0;
+	};
+	81B38C0112184C6900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 813238851216E58A000B72C4 /* CalendarViewController.h */;
+		name = "CalendarViewController.h: 26";
+		rLen = 0;
+		rLoc = 843;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 0;
+	};
+	81B38C0212184C6900FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8132389C1216E655000B72C4 /* NSDate+Extras.h */;
+		name = "NSDate+Extras.h: 14";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	81B38C0612186D2200FAE22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8132389D1216E655000B72C4 /* NSDate+Extras.m */;
+		name = "NSDate+Extras.m: 16";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 1554;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* DailyCalendar */ = {
+		activeExec = 0;
+		executables = (
+			813238611216E54C000B72C4 /* DailyCalendar */,
+		);
+	};
+}

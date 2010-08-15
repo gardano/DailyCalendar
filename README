@@ -1,1 +1,3 @@
-DailyCalendar is an iCal-like iterface for Cocoa.
+DailyCalendar is an iCal-like iterface for Cocoa, featuring drag-to-create for an appointment, drag-to-move appointment, and resize handles for setting appointment length.
+
+It's got a simple CoreData store, and does not integrate with the iCal database.
